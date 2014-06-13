@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">P2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_text">P2 App</string>
+    <string name="intro_button">Launch Gas!</string>
+    <string name="img_pedos_desc">Imagen de Pedos</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="launchFrag">Launch Fragment</string>
+
+</resources>
